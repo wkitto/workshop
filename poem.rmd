@@ -25,9 +25,30 @@ The jaws that bite, the claws that catch!
   
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-
+Whose woods these are I think I know.  
+His house is in the village though;  
+He will not see me stopping here  
+To watch his woods fill up with snow.  
+   
+To stop without a farmhouse near  
+Between the woods and frozen lake  
+The darkest evening of the year.  
+  
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+"The sun was shining on the sea,  
+      Shining with all his might:  
+He did his very best to make  
+      The billows smooth and bright —  
+And this was odd, because it was  
+      The middle of the night.  
+  
+The moon was shining sulkily,  
+      Because she thought the sun  
+Had got no business to be there    
+"It's very rude of him," she said,  
+      "To come and spoil the fun."  
+        
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
